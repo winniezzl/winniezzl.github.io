@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Zhu Zhiling"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,6 +15,8 @@ My research interests lie in:
 - 🔍 **Open Source Software Governance**
 - 🧩 **Software Component Analysis**
 - ⚙️ **Automatic CI/CD**
+
+I am leading a research group named **OSSSC Team**, focusing on the security and governance of open source software.
 
 Welcome to reach out to me if you are interested in my research or have any questions!
 
