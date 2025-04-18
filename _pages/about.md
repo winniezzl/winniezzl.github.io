@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Zhiling Zhu's Academic Homepage"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
