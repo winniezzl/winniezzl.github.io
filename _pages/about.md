@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### 👨‍🎓 About Me
+## 👨‍🎓 About Me
 
 I am currently a final-year Ph.D. candidate in the School of Computer Science and Technology at [Zhejiang University of Technology (ZJUT)](https://www.zjut.edu.cn/), supervised by Prof. [Tieming Chen](https://homepage.zjut.edu.cn/tmchen/). From 2023 to 2024, I was a visiting student at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/) under the supervision of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/).
 
@@ -20,20 +20,19 @@ Welcome to reach out to me if you are interested in my research or have any ques
 
 📫 Contact: zhilingzhu AT zjut.edu.cn
 
----
 
-### 🗞️ News
+## 🗞️ News
 
-- **2025.03**: Our paper "_Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration_" was accepted by **ISSTA 2025**. 🎉
-- **2025.03**: Our paper "_Kellect: A Kernel-based Efficient and Lossless Event Log Collector for Windows Security_" was accepted by **Computers & Security**. Congrats to Qijie! 🎉
-- **2025.01**: Our paper "_DOCKINSIGHT: A Knowledge-Augmented Dependency Extraction Approach for Dockerfile_" was accepted by **ICSR 2025**. Congrats to Yunjin! 🎉
-- **2024.08**: Our paper "_ThreatResponder: Dynamic Markov-based Defense Mechanism for Real-time Cyber Threats_" was accepted by **ICDF2C 2024**. Congrats to Yiheng! 🎉
-- **2024.07**: Our paper "_CoreCast: Leveraging Project Metrics to Predict Core Contributor Trends in Open Source Development_" was accepted by **SEKE 2024**. Congrats to Lizi! 🎉
-- **2024.05**: Our paper "_DocSecKG: A Systematic Approach for Building Knowledge Graph to Understand the Relationship between Docker Image and Vulnerability_" was accepted by **ICIC 2024**. Congrats to Haobin! 🎉
+- **<span style="color:red">2025.03</span>**: Our paper "_Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration_" was accepted by **ISSTA 2025**. 🎉
+- **<span style="color:red">2025.03</span>**: Our paper "_Kellect: A Kernel-based Efficient and Lossless Event Log Collector for Windows Security_" was accepted by **Computers & Security**. Congrats to Qijie! 🎉
+- **<span style="color:red">2025.01</span>**: Our paper "_DOCKINSIGHT: A Knowledge-Augmented Dependency Extraction Approach for Dockerfile_" was accepted by **ICSR 2025**. Congrats to Yunjin! 🎉
+- **<span style="color:red">2024.08</span>**: Our paper "_ThreatResponder: Dynamic Markov-based Defense Mechanism for Real-time Cyber Threats_" was accepted by **ICDF2C 2024**. Congrats to Yiheng! 🎉
+- **<span style="color:red">2024.07</span>**: Our paper "_CoreCast: Leveraging Project Metrics to Predict Core Contributor Trends in Open Source Development_" was accepted by **SEKE 2024**. Congrats to Lizi! 🎉
+- **<span style="color:red">2024.05</span>**: Our paper "_DocSecKG: A Systematic Approach for Building Knowledge Graph to Understand the Relationship between Docker Image and Vulnerability_" was accepted by **ICIC 2024**. Congrats to Haobin! 🎉
 
----
 
-### 📄 Selected Publications
+
+## 📄 Selected Publications
 
 ### Conference Papers
 
@@ -69,9 +68,9 @@ Welcome to reach out to me if you are interested in my research or have any ques
   _Kellect: A Kernel-based Efficient and Lossless Event Log Collector for Windows Security_.  
   *Computers & Security, Vol. 150, Article No. 104203*
 
----
 
-### 🎓 Education
+
+## 🎓 Education
 
 - **2021.09 - 2025.06 (expected)**  
   Ph.D. Candidate, School of Computer Science and Technology, Zhejiang University of Technology.
@@ -82,4 +81,3 @@ Welcome to reach out to me if you are interested in my research or have any ques
 - **2017.09 - 2021.06**  
   B.Eng. in Software Engineering, Zhejiang University of Technology.
 
----
