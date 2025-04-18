@@ -20,6 +20,7 @@ Welcome to reach out to me if you are interested in my research or have any ques
 
 📫 Contact: zhilingzhu AT zjut.edu.cn
 
+<br>
 
 ## 🗞️ News
 
@@ -30,10 +31,9 @@ Welcome to reach out to me if you are interested in my research or have any ques
 - **<span style="color:red">2024.07</span>**: Our paper "_CoreCast: Leveraging Project Metrics to Predict Core Contributor Trends in Open Source Development_" was accepted by **SEKE 2024**. Congrats to Lizi! 🎉
 - **<span style="color:red">2024.05</span>**: Our paper "_DocSecKG: A Systematic Approach for Building Knowledge Graph to Understand the Relationship between Docker Image and Vulnerability_" was accepted by **ICIC 2024**. Congrats to Haobin! 🎉
 
-
+<br>
 
 ## 📄 Selected Publications
-
 ### Conference Papers
 
 - **[ISSTA 2025]** <span style="background-color:#ff4d4f; color:white; padding:2px 6px; border-radius:6px;">CCF A</span>  
@@ -68,7 +68,7 @@ Welcome to reach out to me if you are interested in my research or have any ques
   _Kellect: A Kernel-based Efficient and Lossless Event Log Collector for Windows Security_.  
   *Computers & Security, Vol. 150, Article No. 104203*
 
-
+<br>
 
 ## 🎓 Education
 
