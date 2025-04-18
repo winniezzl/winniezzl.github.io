@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## 👨‍🎓 About Me
+### 👨‍🎓 About Me
 
 I am currently a final-year Ph.D. candidate in the School of Computer Science and Technology at [Zhejiang University of Technology (ZJUT)](https://www.zjut.edu.cn/), supervised by Prof. [Tieming Chen](https://homepage.zjut.edu.cn/tmchen/). From 2023 to 2024, I was a visiting student at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/) under the supervision of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/).
 
@@ -22,7 +22,7 @@ Welcome to reach out to me if you are interested in my research or have any ques
 
 ---
 
-## 🗞️ News
+### 🗞️ News
 
 - **2025.03**: Our paper "_Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-Orchestration_" was accepted by **ISSTA 2025**. 🎉
 - **2025.03**: Our paper "_Kellect: A Kernel-based Efficient and Lossless Event Log Collector for Windows Security_" was accepted by **Computers & Security**. Congrats to Qijie! 🎉
@@ -33,7 +33,7 @@ Welcome to reach out to me if you are interested in my research or have any ques
 
 ---
 
-## 📄 Selected Publications
+### 📄 Selected Publications
 
 ### Conference Papers
 
@@ -71,7 +71,7 @@ Welcome to reach out to me if you are interested in my research or have any ques
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 - **2021.09 - 2025.06 (expected)**  
   Ph.D. Candidate, School of Computer Science and Technology, Zhejiang University of Technology.
