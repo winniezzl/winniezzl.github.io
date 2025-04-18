@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhiling Zhu's Academic Homepage"
+# title: "Zhiling Zhu's Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,6 +15,10 @@ My research interests lie in:
 - 🔍 **Open Source Software Governance**
 - 🧩 **Software Component Analysis**
 - ⚙️ **Automatic CI/CD**
+
+Welcome to reach out to me if you are interested in my research or have any questions!
+
+📫 Contact: zhilingzhu AT zjut.edu.cn
 
 ---
 
@@ -79,5 +83,3 @@ My research interests lie in:
   B.Eng. in Software Engineering, Zhejiang University of Technology.
 
 ---
-
-*Feel free to reach out via [Email](mailto:your_email@domain.com) or [GitHub](https://github.com/yourusername).* 🔗
