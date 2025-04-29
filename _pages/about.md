@@ -9,7 +9,7 @@ redirect_from:
 
 ## 👨‍🎓 About Me
 
-I am currently a final-year Ph.D. candidate in the School of Computer Science and Technology at [Zhejiang University of Technology (ZJUT)](https://www.zjut.edu.cn/), supervised by Prof. [Tieming Chen](https://homepage.zjut.edu.cn/tmchen/). From 2023 to 2024, I was a visiting student at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/) under the supervision of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+I am currently a final-year Ph.D. candidate in the School of Computer Science and Technology at [Zhejiang University of Technology (ZJUT)](https://www.zjut.edu.cn/), supervised by Prof. [Tieming Chen](https://homepage.zjut.edu.cn/tmchen/). From 2023 to 2024, I was a visiting student at College of Computing and Data Science, [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/) under the supervision of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) and Prof. [Chengwei Liu](https://lcwj3.github.io/).
 
 My research interests lie in:
 - 🔍 **Open Source Software Governance**
