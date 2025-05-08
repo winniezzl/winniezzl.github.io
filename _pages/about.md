@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhu Zhiling"
+title: "Zhu Zhiling (朱志凌)"
 author_profile: true
 redirect_from: 
   - /about/

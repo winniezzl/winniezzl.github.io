@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Zhu Zhiling"
+name                     : &name "Zhu Zhiling (朱志凌)"
 description              : &description "Ph.D. candidate at Zhejiang University of Technology"
 url                      : https://winniezzl.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,8 +23,8 @@ repository               : "winniezzl/winniezzl.github.io"
 author:
   # Biographic information
   avatar           : "me.jpg"
-  name             : "Zhu Zhiling" # Name to display
-  pronouns         : # example: "she/her"  
+  name             : "Zhu Zhiling (朱志凌)" # Name to display
+  pronouns         : # example: "she/her"
   bio              : "Ph.D. candidate at Zhejiang University of Technology"
   location         : "China, Hangzhou"
   employer         : "Zhejiang University of Technology"
@@ -46,8 +46,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "winniezzl" # Username - Update with your username on the site
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   bluesky          : # Username
@@ -80,7 +80,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
