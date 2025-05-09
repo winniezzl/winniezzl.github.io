@@ -83,3 +83,16 @@ Welcome to reach out to me if you are interested in my research or have any ques
 - **2017.09 - 2021.06**  
   B.Eng. in Software Engineering, Zhejiang University of Technology.
 
+<!-- OSSSC Team -->
+## 👥 OSSSC Team
+- **Zhong Yunjin** (Master Student, 2022.09 - 2025.06), *Master Thesis: "Research and Implementation of Dependency Extraction and Intelligent Generation Method for Dockerfile"*.
+
+- **Kong Haobin** (Master Student, 2022.09 - 2025.06), *Master Thesis: "Knowledge Graph Construction Method for Container Image Ecosystem Security"*.
+
+- **Wu Lizi** (Master Student, 2023.09 - )
+
+- **Lu Yiheng** (Master Student, 2023.09 - )
+
+- **Xu Maohuan** (Master Student, 2024.09 - )
+
+- **Wang Guohao** (Master Student, 2024.09 - )
