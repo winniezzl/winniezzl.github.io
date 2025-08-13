@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhu Zhiling (朱志凌)"
-description              : &description "Ph.D. candidate at Zhejiang University of Technology"
+description              : &description "Post-doc Researcher at Zhejiang University of Technology"
 url                      : https://winniezzl.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "winniezzl/winniezzl.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "me.jpg"
   name             : "Zhu Zhiling (朱志凌)" # Name to display
   pronouns         : # example: "she/her"
-  bio              : "Ph.D. candidate at Zhejiang University of Technology"
+  bio              : "Post-doc Researcher at Zhejiang University of Technology"
   location         : "China, Hangzhou"
   employer         : "Zhejiang University of Technology"
   uri              : # URL
